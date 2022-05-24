@@ -1,5 +1,5 @@
 Flask==1.1.1
-tensorflow==2.1.0
+tensorflow==2.6.4
 numpy>=1.16.5
 gevent==1.4.0
 Werkzeug==0.16.0
